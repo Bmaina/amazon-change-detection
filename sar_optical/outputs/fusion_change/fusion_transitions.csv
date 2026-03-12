@@ -1,0 +1,7 @@
+from_class,to_class,pixels,hectares
+Residential,Forest,180606,1806.06
+Residential,Annual Crop,26139,261.39
+Residential,Highway,1712,17.12
+Residential,Industrial,1160,11.6
+Residential,Pasture,315,3.15
+Residential,Permanent Crop,142,1.42
